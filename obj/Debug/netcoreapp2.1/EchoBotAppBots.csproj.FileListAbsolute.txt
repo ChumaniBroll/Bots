@@ -1,0 +1,15 @@
+C:\Users\CMqulo\source\repos\EchoBotAppBots\EchoBotAppBots\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\CMqulo\source\repos\EchoBotAppBots\EchoBotAppBots\bin\Debug\netcoreapp2.1\EchoBotAppBots.deps.json
+C:\Users\CMqulo\source\repos\EchoBotAppBots\EchoBotAppBots\bin\Debug\netcoreapp2.1\EchoBotAppBots.runtimeconfig.json
+C:\Users\CMqulo\source\repos\EchoBotAppBots\EchoBotAppBots\bin\Debug\netcoreapp2.1\EchoBotAppBots.runtimeconfig.dev.json
+C:\Users\CMqulo\source\repos\EchoBotAppBots\EchoBotAppBots\bin\Debug\netcoreapp2.1\EchoBotAppBots.dll
+C:\Users\CMqulo\source\repos\EchoBotAppBots\EchoBotAppBots\bin\Debug\netcoreapp2.1\EchoBotAppBots.pdb
+C:\Users\CMqulo\source\repos\EchoBotAppBots\EchoBotAppBots\obj\Debug\netcoreapp2.1\EchoBotAppBots.csprojAssemblyReference.cache
+C:\Users\CMqulo\source\repos\EchoBotAppBots\EchoBotAppBots\obj\Debug\netcoreapp2.1\EchoBotAppBots.csproj.CoreCompileInputs.cache
+C:\Users\CMqulo\source\repos\EchoBotAppBots\EchoBotAppBots\obj\Debug\netcoreapp2.1\EchoBotAppBots.RazorAssemblyInfo.cache
+C:\Users\CMqulo\source\repos\EchoBotAppBots\EchoBotAppBots\obj\Debug\netcoreapp2.1\EchoBotAppBots.RazorAssemblyInfo.cs
+C:\Users\CMqulo\source\repos\EchoBotAppBots\EchoBotAppBots\obj\Debug\netcoreapp2.1\EchoBotAppBots.AssemblyInfoInputs.cache
+C:\Users\CMqulo\source\repos\EchoBotAppBots\EchoBotAppBots\obj\Debug\netcoreapp2.1\EchoBotAppBots.AssemblyInfo.cs
+C:\Users\CMqulo\source\repos\EchoBotAppBots\EchoBotAppBots\obj\Debug\netcoreapp2.1\EchoBotAppBots.RazorTargetAssemblyInfo.cache
+C:\Users\CMqulo\source\repos\EchoBotAppBots\EchoBotAppBots\obj\Debug\netcoreapp2.1\EchoBotAppBots.dll
+C:\Users\CMqulo\source\repos\EchoBotAppBots\EchoBotAppBots\obj\Debug\netcoreapp2.1\EchoBotAppBots.pdb
